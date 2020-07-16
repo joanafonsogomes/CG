@@ -1,0 +1,26 @@
+# CMake generation dependency list for this directory.
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/CMakeCInformation.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/CMakeCXXInformation.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/CMakeGenericSystem.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/CMakeInitializeConfigs.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/CMakeLanguageInformation.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/CMakeRCInformation.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/CMakeSystemSpecificInformation.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/Compiler/MSVC-C.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/Compiler/MSVC-CXX.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/FindOpenGL.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/FindPackageMessage.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/Platform/Windows-MSVC-C.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/Platform/Windows-MSVC.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/Platform/Windows.cmake
+C:/Users/Angelica/Desktop/cmake-3.16.4-win64-x64/share/cmake-3.16/Modules/Platform/WindowsPaths.cmake
+C:/Users/Angelica/Desktop/universidade/3ano/CG/CG-Project/GLUT/CMakeLists.txt
+C:/Users/Angelica/Desktop/universidade/3ano/CG/CG-Project/GLUT/glut/CMakeFiles/3.16.4/CMakeCCompiler.cmake
+C:/Users/Angelica/Desktop/universidade/3ano/CG/CG-Project/GLUT/glut/CMakeFiles/3.16.4/CMakeCXXCompiler.cmake
+C:/Users/Angelica/Desktop/universidade/3ano/CG/CG-Project/GLUT/glut/CMakeFiles/3.16.4/CMakeRCCompiler.cmake
+C:/Users/Angelica/Desktop/universidade/3ano/CG/CG-Project/GLUT/glut/CMakeFiles/3.16.4/CMakeSystem.cmake

@@ -1,0 +1,3 @@
+C:/Users/rodip/Desktop/3_Ano/3ano2sem/CG/CG-Project/GLUT/build/CMakeFiles/class2.dir
+C:/Users/rodip/Desktop/3_Ano/3ano2sem/CG/CG-Project/GLUT/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/rodip/Desktop/3_Ano/3ano2sem/CG/CG-Project/GLUT/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+﻿  Generator.cpp
+C:\Users\rodip\Desktop\3_Ano\3ano2sem\CG\CG-Project\Generator\Generator\Generator.cpp(244,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodip\Desktop\3_Ano\3ano2sem\CG\CG-Project\Generator\Generator\Generator.cpp(245,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodip\Desktop\3_Ano\3ano2sem\CG\CG-Project\Generator\Generator\Generator.cpp(355,17): warning C4101: 'atr': unreferenced local variable
+C:\Users\rodip\Desktop\3_Ano\3ano2sem\CG\CG-Project\Generator\Generator\Generator.cpp(431,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodip\Desktop\3_Ano\3ano2sem\CG\CG-Project\Generator\Generator\Generator.cpp(566,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodip\Desktop\3_Ano\3ano2sem\CG\CG-Project\Generator\Generator\Generator.cpp(566,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodip\Desktop\3_Ano\3ano2sem\CG\CG-Project\Generator\Generator\Generator.cpp(566,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodip\Desktop\3_Ano\3ano2sem\CG\CG-Project\Generator\Generator\Generator.cpp(566,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generator.vcxproj -> C:\Users\rodip\Desktop\3_Ano\3ano2sem\CG\CG-Project\Generator\Debug\Generator.exe

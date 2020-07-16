@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\rodip\Workspace\3ano_2sem\CG\CG-Project\GLUT\build\main.cpp(257,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\rodip\Workspace\3ano_2sem\CG\CG-Project\GLUT\build\main.cpp(423,10): warning C4101: 'imgTexture': unreferenced local variable
+C:\Users\rodip\Workspace\3ano_2sem\CG\CG-Project\GLUT\build\main.cpp(581,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+C:\Users\rodip\Workspace\3ano_2sem\CG\CG-Project\GLUT\build\main.cpp(802,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::string'
+  Engine.vcxproj -> C:\Users\rodip\Workspace\3ano_2sem\CG\CG-Project\GLUT\build\Release\Engine.exe

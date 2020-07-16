@@ -1,0 +1,10 @@
+^C:\USERS\RODIP\WORKSPACE\3ANO_2SEM\CG\CG-PROJECT\GLUT\BUILD\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/rodip/Workspace/3ano_2sem/CG/CG-Project/GLUT/build -BC:/Users/rodip/Workspace/3ano_2sem/CG/CG-Project/GLUT/build --check-stamp-file C:/Users/rodip/Workspace/3ano_2sem/CG/CG-Project/GLUT/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

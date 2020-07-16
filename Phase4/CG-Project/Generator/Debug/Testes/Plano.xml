@@ -1,0 +1,14 @@
+<scene>
+    <lights>
+        <light type="SPOT" posX="2" posY="0.0" posZ="0.0" ang="180" dirX="1" dirY="0" dirZ="1" att="1"/> 
+    </lights>
+    
+    <group>
+        <translate time="0">
+            <point X="0" Y="0" Z="0" />
+        </translate>
+        <models>            
+            <model file="plane.3d" texture="earth.jpg" emX="1" emY="1" emZ="1"/>
+        </models>
+    </group>
+</scene>

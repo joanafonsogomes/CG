@@ -1,0 +1,10 @@
+^C:\USERS\RODIP\DESKTOP\3_ANO\3ANO2SEM\CG\CG-PROJECT\GLUT\BUILD\CMAKEFILES\12990C7065236600AAF9CFA12ADA3EB0\GENERATE.STAMP.RULE
+setlocal
+C:\Users\rodip\Desktop\3_Ano\3ano2sem\Cmake\bin\cmake.exe -SC:/Users/rodip/Desktop/3_Ano/3ano2sem/CG/CG-Project/GLUT/build -BC:/Users/rodip/Desktop/3_Ano/3ano2sem/CG/CG-Project/GLUT/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/rodip/Desktop/3_Ano/3ano2sem/CG/CG-Project/GLUT/build/Engine.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
