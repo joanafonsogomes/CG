@@ -1,6 +1,6 @@
 # CG
 
-Solar System (mini scene graph based 3D engine)
+Solar System (scene graph based 3D engine)
 
 Computer Graphics (Computação Gráfica) project 2019/2020
 
